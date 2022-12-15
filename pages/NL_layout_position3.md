@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<img src="position3.jpeg" class="w-2/3 mx-auto mb-10">
+<!-- <img src="assets/position3.jpeg" class="w-2/3 mx-auto mb-10"> -->
 
 ```html
 <div class="relative h-32 w-32 ...">
